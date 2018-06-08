@@ -43,6 +43,7 @@ public class Inheritance {
 				// tempChild.printAge();
 
 			} else if (tempParent instanceof Parent) {
+				// github test
 				System.out.println("Parent");
 			}
 		}
